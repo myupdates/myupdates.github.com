@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "26 July 2016"
+date:   2016-07-26 21:19:46 +0300
+categories: update tasks
+---
+I am planning to make some progress in tasks from 4 categories every day:
+
+- [x] Running / Exercising
+- [x] Read Something
+- [x] Study some Deep Learning
+- [x] Do Some coding
+
+# Running / Exercising
+Since I am recovering from the knee pain, I am progressing slowly, adding only 200m everyday to the distance I run.
+Today I ran `1.8Km in total`. **1.2Km warm-up run** and then **6x100m fast run**.
+
+# Reading
+Although the aim is to read something related everyday so that over a period of a couple of months I gain a deeper understanding of a single topic. However, since I am just starting out in this practice. My aim is to read about something every day so that I can make this practice into a Habit.
+
+So, today I read a chapter from the following book. 
+
+Beautiful Code : 
+
+![Book Beautiful Code][beautiful-code-img]
+
+I read the chapter titled `Beautiful Concurrency` By - _Simon Peyton Jones_ Which talks about how the programming language [Haskell](https://wiki.haskell.org/Introduction) deals with multiple threads without each thread holding a lock. It is a concept in programming, and a particularly interesting one (not related to machine learning though). However, I chose to pick this chapter because I have this book at home and wanted to make some progress in reading it, also that I had watched a youtube video of the author _Simon Peyton Jones_ (He is a professor of Computer Science. More about him [here](https://en.wikipedia.org/wiki/Simon_Peyton_Jones)).
+
+The video linked below (click the image), is about `How to Write a Great Research Paper`
+
+[![How to Write a Great Research Paper-Youtube](http://img.youtube.com/vi/3NRrUvqQlnY/0.jpg)](http://www.youtube.com/watch?v=3NRrUvqQlnY)   
+
+# Study Some Deep Learning
+Today I had a meeting with **JK** (The Post-Doc working with **T**) we first went over few of the corrections he had made to the derivation that I had done last time. Then we went over the next steps. (Although this will not make sense to you'll I will still write what the proposed next steps are):
+
+1. Go over the **ADGM** paper (The one written by **C** guys) and re-derive part of the equations with a small change.
+2. In addition to the changes made in step 1. now make additional changes so that, the [graphical model][graphical-model] looks like the one from the `SS DGM` paper.
+3. Finally add the proposed, label connections to the `LV` graphical model and write the equations.
+
+I will start working on these tasks tomorrow.
+
+# Coding.
+
+I experimented with this simple site generator, to write daily status updates to you'll. Although this is not particularly coding, I did learn [markdown][mark-down], which is a method of formatting documents on the web. This is a good start, but I don't like the current setup because it doesn't let me format the page like I want to. I might go back to using simple `HTML` and `CSS` for writing these status updates until I find something I like.
+
+I am also working on my website. Will show it to you'll once I have something I like.
+
+[mark-down]: https://en.wikipedia.org/wiki/Markdown
+[graphical-model]: https://en.wikipedia.org/wiki/Graphical_model
+[beautiful-code-img]: https://books.google.fi/books/content?id=gJrmszNHQV4C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70fgAXjIB47_JX_7hSty0Xc-LoyxpQ0tkDyMBXCsfFrBKXq_UKmvaZRl0kYKwb5QyyRke46Sv_SO6_Pi2n0gimJ0qTarmCosXv0lRMrodJMYlEg-m5VWNi_srZDMIVMrwD0zNxl
